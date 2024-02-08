@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'myFontBold';
-    src: url(Lydia.Sans/Lydia\ Sans\ Bold.ttf);
+    src: url(Lydia.Sans/Lydia\ Sans\ Bold.woff2);
 }
 @font-face {
     font-family: 'myFont';
-    src: url(Lydia.Sans/Lydia\ Sans\ Regular.ttf);
+    src: url(Lydia.Sans/Lydia\ Sans\ Regular.woff2);
 }
 @font-face {
     font-family: 'myFontLight';
-    src: url(Lydia.Sans/Lydia\ Sans\ Light.ttf);
+    src: url(Lydia.Sans/Lydia\ Sans\ Light.woff2);
 }
 
 * {
